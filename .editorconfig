@@ -1,0 +1,11 @@
+[*]
+end_of_line = lf
+quote_type = single
+
+[*.js]
+indent_style = space
+indent_size = 2
+
+[*.ts]
+indent_style = space
+indent_size = 2
